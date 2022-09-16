@@ -7,11 +7,11 @@ const Hero = () => {
     <div className='mt-[80px]'>
         <div  className='max-w-[1150px]  mx-auto  pt-10 '>
             <div className='flex flex-col space-y-5 items-center justify-center lg:max-w-[850px] m-auto'>
-                <h2>
+                <h2 className='font-mont'>
                     Digital Payment Technology
                     For The Modern Business
                 </h2>
-                <p>
+                <p className='font-mont'>
                     We make it easy for Businesses of all sizes to
                     process financial transactions in office, store oronline
                     using our website plugins, API’s or software. Processing payments 

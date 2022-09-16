@@ -17,7 +17,7 @@ const ProcessingPlateform = () => {
                           subtitle="Make All the Difference"/>
                     </div>
                     <div className='flex flex-col text-justify space-y-5 mt-[2.25rem] md:text-center'>
-                        <p>
+                        <p className='font-mont'>
                             FinZeo’s payment processing platform is a technology stack built for big 
                             and small businesses to scale without headache. No matter your business type
                             , online, storefront or both our payment platforms, website plugins, API’s, 
@@ -25,7 +25,7 @@ const ProcessingPlateform = () => {
                             is built to your success! You can start accepting payments or sending payouts
                             online or in person in 15 minutes.
                         </p>
-                        <p>
+                        <p className='font-mont'>
                             We can even help businesses send money in real-time using our Instant Funding 
                             Technology, issue virtual and physical debit cards, get business financing, send
                              invoices, help with digital marketing, via text, reward cards and more.

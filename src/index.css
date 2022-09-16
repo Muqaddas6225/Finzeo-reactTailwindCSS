@@ -10,30 +10,30 @@
         @apply bg-gray-50 px-5
     }
     h2{ 
-       @apply font-mono not-italic text-[#3C3C3C] font-semibold
+       @apply not-italic text-[#3C3C3C] font-semibold
        text-2xl
     }
    
     h3{
-        @apply font-mono not-italic text-[#3C3C3C] font-medium
+        @apply  not-italic text-[#3C3C3C] font-medium
          text-4xl
     }
     
     h4{
-        @apply font-mono not-italic text-[#666666] font-medium
+        @apply  not-italic text-[#666666] font-medium
          text-sm
     }
     
     h5{
-        @apply font-mono not-italic text-[#3C3C3C] font-medium
+        @apply not-italic text-[#3C3C3C] font-medium
          text-2xl
     }
     h6{
-        @apply font-mono not-italic text-[#666666] font-semibold
+        @apply  not-italic text-[#666666] font-semibold
          text-base 
     }
     p{
-        @apply font-mono not-italic text-[#666666] font-medium
+        @apply not-italic text-[#666666] font-medium
          text-base 
     }
   

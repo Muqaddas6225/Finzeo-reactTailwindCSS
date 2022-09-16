@@ -11,7 +11,7 @@ const Transaction = () => {
         <div className='max-w-[1150px] m-auto'>
             <div className='flex flex-col'>
                 <div className='flex flex-col space-y-3 justify-start '>
-                    <Heading img={transactionIcon} title="The Right Financial Partners" subtitle="Make All the Difference"/>
+                    <Heading img={transactionIcon} title="Transactions-as-a-Service" subtitle="Smart Financial Technology to Maximize Your Businesses"/>
                 </div>
                 <div>
                     <Tabs/>

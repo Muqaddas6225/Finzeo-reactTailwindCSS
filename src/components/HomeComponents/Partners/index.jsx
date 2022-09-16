@@ -15,13 +15,13 @@ const Partners = () => {
                         <Heading img={handshake} title="The Right Financial Partners" subtitle="Make All the Difference"/>
                     </div>
                     <div className='flex flex-col text-justify space-y-5 mt-[2.25rem] md:text-start'>
-                        <p>
+                        <p className='font-mont'>
                             At FinZeo, we understand that having access to the right banks and financial institutions
                             can transform your business and increase profitability dramatically. That's why we've worked
                             hard to create an "insiders only" banking network that connects our customers with the right
                             banks to help us meet their needs.
                         </p>
-                        <p>
+                        <p className='font-mont'>
                             Thanks to those relationships, we're able to offer flexible payment processing services
                              with no reserve requirements, no escrow requirements, and low transaction fees, even for
                              high-risk merchant accounts. Let us handle the behind the scenes work to connect you to

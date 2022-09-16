@@ -16,11 +16,11 @@ const Toolkit = () => {
                                 to easily perform financial transactions"/>
                 </div>
                 <div className='flex flex-col text-justify space-y-5 mt-[2.25rem] md:text-start'>
-                    <p>
+                    <p className='font-mont'>
                         Every Developers Dream
                     </p>
-                    <h5>Powerful and Easy-to-Use APIs</h5>
-                    <p>
+                    <h5 className='font-mont'>Powerful and Easy-to-Use APIs</h5>
+                    <p className='font-mont'>
                         We know for developers, one of the worse things to deal with is a bad undocumented
                          API. That’s why we are proud to say our API’s are built by Senior Developers for 
                          Developers because a good API makes it so much easier to complete your project; 
